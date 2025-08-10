@@ -7,13 +7,11 @@
   We build LLM specific tools and platforms
 </p>
 
----
 
 ## About us
 
 Datalore.ai is an AI-first research and engineering platform focused on accelerating the way students, researchers, and developers discover, analyze, and utilize academic and technical knowledge.
 
----
 
 ## Our Core Projects
 
@@ -23,7 +21,6 @@ Datalore.ai is an AI-first research and engineering platform focused on accelera
 | [**datalore-deepresearch-cli**](https://github.com/Datalore-ai/datalore-deepresearch-cli) | Using deep research workflow to generate datasets for finetuning LLMs. |
 | [**datalore-localgen-cli**](https://github.com/Datalore-ai/datalore-localgen-cli) | synthetic dataset generation workflow using local file resources for finetuning llms. |
 | [**doc-sailor**](https://github.com/Datalore-ai/doc-sailor) | browser extension for automated navigation through technical web documentations |
----
 
 ## Links
 
