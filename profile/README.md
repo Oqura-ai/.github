@@ -20,6 +20,7 @@ Datalore.ai is an AI-first research and engineering platform focused on accelera
 | [**Datalore.ai**](https://github.com/Datalore-ai/Datalore.ai) | Web based synthetic dataset generation application |
 | [**datalore-deepresearch-cli**](https://github.com/Datalore-ai/datalore-deepresearch-cli) | Using deep research workflow to generate datasets for finetuning LLMs. |
 | [**datalore-localgen-cli**](https://github.com/Datalore-ai/datalore-localgen-cli) | synthetic dataset generation workflow using local file resources for finetuning llms. |
+| [**deepdoc**](https://github.com/Datalore-ai/deepdoc) | Terminal based deep research agent for report generation on local file resources |
 | [**doc-sailor**](https://github.com/Datalore-ai/doc-sailor) | browser extension for automated navigation through technical web documentations |
 
 ## Links
