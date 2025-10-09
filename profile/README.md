@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/main-logo.png" alt="Oqura.ai" width="200"/>
+  <img src="./main-logo.png" alt="Oqura.ai" width="700"/>
 </p>
 
 <!-- <h1 align="center">Oqura.ai</h1>
