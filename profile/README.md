@@ -1,11 +1,11 @@
-<!-- <p align="center">
-  <img src="./assets/logo.png" alt="Thesius.ai" width="200"/>
-</p> -->
+<p align="center">
+  <img src="./assets/main-logo.png" alt="Oqura.ai" width="200"/>
+</p>
 
-<h1 align="center">Oqura.ai</h1>
+<!-- <h1 align="center">Oqura.ai</h1>
 <p align="center">
   We build LLM specific tools and platforms
-</p>
+</p> -->
 
 
 ## About us
