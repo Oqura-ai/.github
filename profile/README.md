@@ -23,6 +23,8 @@ Oqura.ai is an AI-first research and engineering platform focused on acceleratin
 | [**deepdoc**](https://github.com/Thesius-ai/deepdoc) | Terminal based deep research agent for report generation on local file resources |
 | [**doc-sailor**](https://github.com/Thesius-ai/doc-sailor) | browser extension for automated navigation through technical web documentations |
 
-## Links
+## Disclaimer
 
-- Website: https://Oqura.ai *(Coming Soon)*
+Oqura is an open-source organization created by two students with a focus on research and learning. We have no intention of infringing on any trademarks or intellectual property.
+If any part of our work unintentionally overlaps with an existing trademark or right, please contact us at [biswalswaraj88@gmail.com
+], and we’ll take immediate action to resolve it.
