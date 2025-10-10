@@ -12,16 +12,17 @@
 
 Oqura.ai is an AI-first research and engineering platform focused on accelerating the way researchers, and developers use and build LLMs and LLM based applications.
 
+Visit our homepage at [Oqura.ai](https://oqura-homepage.vercel.app/)
+
 
 ## Our Core Projects
 
 | Project | Description |
 |---------|-------------|
-| [**Oqura.ai**](https://github.com/Thesius-ai/Thesius.ai) | Web based synthetic dataset generation application |
-| [**deepresearch-datagen-cli**](https://github.com/Thesius-ai/thesius-deepresearch-cli) | Using deep research workflow to generate datasets for finetuning LLMs |
-| [**local-datagen-cli**](https://github.com/Thesius-ai/thesius-localgen-cli) | Synthetic dataset generation workflow using local file resources for finetuning LLMs |
-| [**deepdoc**](https://github.com/Thesius-ai/deepdoc) | Terminal based deep research agent for report generation on local file resources |
-| [**doc-sailor**](https://github.com/Thesius-ai/doc-sailor) | browser extension for automated navigation through technical web documentations |
+| [**deepdoc**](https://github.com/Oqura-ai/deepdoc) | Terminal based deep research agent for report generation on local file resources |
+| [**local-datagen-cli**](https://github.com/Oqura-ai/local-datagen-cli) | Synthetic dataset generation workflow using local file resources for finetuning LLMs |
+| [**deepresearch-datagen-cli**](https://github.com/Oqura-ai/deepresearch-datagen-cli) | Using deep research workflow to generate datasets for finetuning LLMs |
+| [**doc-sailor**](https://github.com/Oqura-ai/doc-sailor) | browser extension for automated navigation through technical web documentations |
 
 ## Disclaimer
 
