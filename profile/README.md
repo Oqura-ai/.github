@@ -10,7 +10,7 @@
 
 ## About us
 
-Oqura.ai is an AI-first research and engineering platform focused on accelerating the way researchers, and developers use and build LLMs and LLMs based applications.
+Oqura.ai is an AI-first research and engineering platform focused on accelerating the way researchers, and developers use and build LLMs and LLM based applications.
 
 
 ## Our Core Projects
