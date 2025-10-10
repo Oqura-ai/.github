@@ -22,6 +22,7 @@ Visit our homepage at [Oqura.ai](https://oqura-homepage.vercel.app/)
 | [**deepdoc**](https://github.com/Oqura-ai/deepdoc) | Terminal based deep research agent for report generation on local file resources |
 | [**local-datagen-cli**](https://github.com/Oqura-ai/local-datagen-cli) | Synthetic dataset generation workflow using local file resources for finetuning LLMs |
 | [**deepresearch-datagen-cli**](https://github.com/Oqura-ai/deepresearch-datagen-cli) | Using deep research workflow to generate datasets for finetuning LLMs |
+| [**datazard.ai**](https://github.com/Oqura-ai/datazard.ai) | Web-based dataset generation for LLM finetuning |
 | [**doc-sailor**](https://github.com/Oqura-ai/doc-sailor) | browser extension for automated navigation through technical web documentations |
 
 ## Disclaimer
