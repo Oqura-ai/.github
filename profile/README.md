@@ -23,7 +23,6 @@ Visit our homepage at [Oqura.ai](https://oqura-homepage.vercel.app/)
 | [**local-datagen-cli**](https://github.com/Oqura-ai/local-datagen-cli) | Synthetic dataset generation workflow using local file resources for finetuning LLMs |
 | [**deepresearch-datagen-cli**](https://github.com/Oqura-ai/deepresearch-datagen-cli) | Using deep research workflow to generate datasets for finetuning LLMs |
 | [**optim-rag**](https://github.com/Oqura-ai/optim-rag) | The rag pipeline for optimizing dynamic data editing. |
-| [**datazard.ai**](https://github.com/Oqura-ai/datazard.ai) | Web-based dataset generation for LLM finetuning |
 | [**doc-sailor**](https://github.com/Oqura-ai/doc-sailor) | browser extension for automated navigation through technical web documentations |
 
 ## Disclaimer
